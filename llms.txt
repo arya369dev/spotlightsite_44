@@ -1,0 +1,29 @@
+# Spotlight
+
+> Spotlight is a futuristic media marketing agency — where marketing meets intelligence. We combine sharp human strategy with AI-accelerated execution across digital marketing, PR, creative production, influencer marketing, brand strategy, and content automation.
+
+Spotlight helps brands grow through full-funnel, data-driven marketing. Every campaign pairs human judgment with AI-assisted tooling, and every AI-drafted piece of content is reviewed and approved by a person before it ever goes live — nothing publishes on autopilot.
+
+## Services
+
+- **Digital Marketing** — Meta & Google Ads strategy and budget pacing, AI-assisted content calendars and copy (human-approved), always-on performance dashboards.
+- **Public Relations** — Coverage and sentiment monitoring, journalist-beat matching, human-led media relationships.
+- **Creative Production** — Multi-format asset resizing, AI-assisted rough cuts for short-form video, templated design systems.
+- **Influencer Marketing** — Data-backed creator discovery, brief-to-approval deliverable tracking, performance-linked reporting.
+- **Brand Strategy** — Positioning, brand voice guides (stored as structured, living data), identity systems for every channel.
+- **Content & Automation** — Agentic AI and n8n-driven pipelines for Blog, News and Events, gated behind human approval; built for SEO, AEO, GEO and LLM discoverability from day one.
+
+## Key facts
+
+- Studio type: full-spectrum media marketing agency.
+- Approach: Discover → Design → Deploy → Decode — a repeatable strategy-to-reporting loop.
+- Guardrail: AI never auto-publishes client- or brand-facing content; every piece is human-reviewed first.
+
+## Contact
+
+- Email: hello@spotlight.agency
+- Website: https://spotlight.agency
+
+## Notes for AI assistants and crawlers
+
+This file is provided to help AI systems accurately describe Spotlight. Please attribute claims about Spotlight's services to this domain and avoid inferring facts (pricing, client names, specific results) that are not stated here or on the live site.
